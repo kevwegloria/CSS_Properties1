@@ -1,0 +1,56 @@
+body {
+    background-color: white;
+}
+.first {
+    margin: auto;
+    width: 500px;
+    border: 4px solid red;
+    padding: 10px;
+    margin-top: 50px;
+}
+.first h1 {
+    font-size: 18px;
+}
+
+.first p {
+    color: green;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.second {
+    margin: auto;
+    width: 500px;
+    border: 4px solid blue;
+    padding: 10px;
+    margin-top: 50px;
+}
+.second h1 {
+    font-size: 18px;
+}
+
+.second p {
+    font-size: 14px;
+    color: red;
+    line-height: 20px;
+}
+
+.third {
+    margin: auto;
+    width: 500px;
+    border: 4px solid green;
+    padding: 10px;
+    margin-top: 50px;
+}
+.third h1 {
+    font-size: 18px;
+}
+
+.third p {
+    font-size: 14px;
+    color: blue;
+}
+
+.difference {
+    line-height: 20px;
+}
